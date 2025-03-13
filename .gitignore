@@ -3,5 +3,3 @@
 
 # But not PDF files in the root directory
 !*.pdf
-
-.gitignore
